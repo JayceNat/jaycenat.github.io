@@ -1,1 +1,1 @@
-# jaycenat.github.io/React-Duel-Calculator/
+# https://jaycenat.github.io/React-Duel-Calculator/
