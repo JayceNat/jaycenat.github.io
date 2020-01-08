@@ -1,1 +1,1 @@
-# https://jaycenat.github.io/
+# jaycenat.github.io
